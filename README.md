@@ -1,2 +1,2 @@
-# Wasteland-Happenings
+# Wasteland Happenings
 Adds random events to DeCiv.

@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Well-Digger",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 10,
+		"upgradesTo": "Worker",
+		"uniques": ["Turn this tile into a [River] tile <for all movement>",
+			"This Unit upgrades for free <upon turn end> <after [10] turns>",
+			"Unbuildable",
+			"Cannot be purchased",
+			"Limited to [1] per Civilization"]
+	},
+	{
+		"name": "Stalker",
+		"unitType": "Scrapper",
+		"movement": 2,
+		"strength": 36,
+		"interceptRange": 1,
+		"cost": 60,
+		"promotions": ["Gas Mask", "Forage"],
+		"upgradesTo": "NBC Infantry",
+		"uniques": ["Personnel",
+			"Consumes [1] [Weapons]",
+			"Can build [Salvage site] improvements on tiles",
+			"[+25]% Strength <after discovering [Rifling]>",
+			"Unbuildable",
+			"Can be purchased for [180] [Gold] [in all cities]",
+			"Only available <after adopting [Collectivism]>"],
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Marked One",
+		"replaces": "Stalker",
+		"uniqueTo": "Barbarians",
+		"unitType": "Scrapper",
+		"movement": 2,
+		"strength": 36,
+		"interceptRange": 1,
+		"cost": 60,
+		"requiredTech": "Engineering",
+		"upgradesTo": "NBC Infantry",
+		"promotions": ["Raider", "Gas Mask", "Forage", "Prospector"],
+		"uniques": ["Personnel", "[+25]% Strength <after discovering [Rifling]>"],
+		"attackSound": "machinegun"
+	}
+]

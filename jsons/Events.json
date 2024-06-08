@@ -1,0 +1,93 @@
+[
+	{
+		"name": "Gift to the State",
+		"text": "Governments of the old world would sometimes prompt the elite and the businessmen of the realm to donate their wealth, either out of patriotism or in exchange for concessions. So shall it hold true with this era's water merchants.",
+		"choices": [
+			{
+				"text": "Replenish the reservoirs!",
+				"triggeredUniques": ["Gain [100]-[500] [Gold]"]
+			}
+		]
+	},
+	{
+		"name": "Appoint a Great Administrator",
+		"text": "Recent talks have been disconcerting. People in outlying settlements are growing restless. We should appoint a new administrator to those settlements to keep the situation under control.",
+		"choices": [
+			{
+				"text": "It shall be done at once.",
+				"triggeredUniques": ["Gain [-250] [Gold]", "Free [Great Administrator] appears"]
+			}
+		]
+	},
+	{
+		"name": "Social Reforms",
+		"text": "Your advisors have proposed a number of policies that are of potential benefit to our nation. They are extremely radical, however, and it is likely that many will not take well to the changes.",
+		"choices": [
+			{
+				"text": "Reassign the advisors somewhere they cannot cause our nation harm.",
+				"triggeredUniques": ["[-1] population [in capital]", "[2] free [Forward Observer] units appear"]
+			},
+			{
+				"text": "Let's implement the proposals and prepare for backlash.",
+				"triggeredUniques": ["Free Social Policy", "Gain a free [Protest Center] [in all cities]"]
+			}
+		]
+	},
+	{
+		"name": "Former Elite Captured",
+		"text": "A surviving member of the pre-Cataclysm world's elite has fallen into our custody. While his crimes are numerous, if he is shown leniency, he could yet be transformed into a productive member of society, if given the incentive to reform and make amends.",
+		"choices": [
+			{
+				"text": "This is his one and only chance for atonement. Assign him to supervised hard labor.",
+				"triggeredUniques": ["Free [Conscript] appears"]
+			},
+			{
+				"text": "The people are out for blood. Have him executed in public.",
+				"triggeredUniques": ["Gain [50] [Culture]"]
+			}
+		]
+	},
+	{
+		"name": "Stalkers",
+		"text": "A band of so-called stalkers has been sighted scavenging the wasteland near our capital. It is clear they are hardened from recent combat and could aid us immensely if persuaded to pledge their services to us.",
+		"choices": [
+			{
+				"text": "Their operations are dangerous to our people. They must be dealt with.",
+				"triggeredUniques": [
+					"Comment [Rebel units may spawn over the next five turns]",
+					"Gain [100] [Culture]",
+					"Gain a free [Stalker Hideout] [in capital]"
+				]
+			},
+			{
+				"text": "See that they are fairly compensated for their services.",
+				"triggeredUniques": ["Lose [150] [Gold]", "Free [Stalker] appears"],
+				"conditions": ["when above [200] [Gold]"]
+			}
+		]
+	},
+	{
+		"name": "Digging Wells",
+		"text": "There is one thing we cannot escape - the need for clean water. As fortune would hold it, an engineering team has just stepped forward, proposing a project which would create a new source of water for our people.",
+		"choices": [
+			{
+				"text": "Let us not waste any time, then.",
+				"triggeredUniques": ["Free [Well-Digger] appears"]
+			},
+			{
+				"text": "Another team has already been contracted, but we would still make use of other services they may offer.",
+				"triggerUniques": ["Free [Worker] appears"]
+			}
+		]
+	},
+	{
+		"name": "Bountiful Harvest",
+		"text": "Owing to breakthroughs in water treatment research, local farmers throughout the nation are reporting an amazing surplus of food. Rarely have we seen such bountiful harvests since before the Cataclysm!",
+		"choices": [
+			{
+				"text": "The people will be eating well this year!",
+				"triggeredUniques": ["Gain [50]-[75] [Food] <in [Your] cities>"]
+			}
+		]
+	}
+]
