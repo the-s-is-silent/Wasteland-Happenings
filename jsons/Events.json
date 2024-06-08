@@ -5,7 +5,7 @@
 		"choices": [
 			{
 				"text": "Replenish the reservoirs!",
-				"triggeredUniques": ["Gain [100]-[500] [Gold]"]
+				"triggeredUniques": ["Gain [500] [Gold]"]
 			}
 		]
 	},
@@ -61,7 +61,7 @@
 			},
 			{
 				"text": "See that they are fairly compensated for their services.",
-				"triggeredUniques": ["Lose [150] [Gold]", "Free [Stalker] appears"],
+				"triggeredUniques": ["Gain [-150] [Gold]", "Free [Stalker] appears"],
 				"conditions": ["when above [200] [Gold]"]
 			}
 		]
