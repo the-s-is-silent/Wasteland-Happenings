@@ -29,7 +29,7 @@
 			},
 			{
 				"text": "Let's implement the proposals and prepare for backlash.",
-				"triggeredUniques": ["Free Social Policy", "[-5] [Happiness] [in all cities] <for [5] turns>"]
+				"triggeredUniques": ["Free Social Policy", "[-5 Happiness] [in all cities] <for [5] turns>"]
 			}
 		]
 	},
