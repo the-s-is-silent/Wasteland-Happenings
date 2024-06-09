@@ -18,11 +18,10 @@
 		"strength": 36,
 		"interceptRange": 1,
 		"cost": 60,
-		"promotions": ["Gas Mask", "Forage"],
+		"promotions": ["Gas Mask", "Prospector"],
 		"upgradesTo": "NBC Infantry",
 		"uniques": ["Personnel",
 			"Consumes [1] [Weapons]",
-			"Can build [Salvage site] improvements on tiles",
 			"[+25]% Strength <after discovering [Rifling]>",
 			"Unbuildable",
 			"Can be purchased for [180] [Gold] [in all cities]",
@@ -40,7 +39,7 @@
 		"cost": 60,
 		"requiredTech": "Engineering",
 		"upgradesTo": "NBC Infantry",
-		"promotions": ["Raider", "Gas Mask", "Forage", "Prospector"],
+		"promotions": ["Raider", "Gas Mask", "Forage", "Urban Warfare I"],
 		"uniques": ["Personnel", "[+25]% Strength <after discovering [Rifling]>"],
 		"attackSound": "machinegun"
 	}

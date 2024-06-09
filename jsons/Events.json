@@ -34,6 +34,16 @@
 		]
 	},
 	{
+		"name": "Radiation Outbreak",
+		"text": "One of our settlements has experienced an outbreak of radiation sickness due to prolonged exposure to contaminated materials. The outbreak has been contained, but at significant cost.",
+		"choices": [
+			{
+				"text": "Just another day in the wasteland...",
+				"triggeredUniques": ["[-1] population in a random city"]
+			}
+		]
+	},
+	{
 		"name": "Former Elite Captured",
 		"text": "A surviving member of the pre-Cataclysm world's elite has fallen into our custody. While his crimes are numerous, if he is shown leniency, he could yet be transformed into a productive member of society, if given the incentive to reform and make amends.",
 		"choices": [
@@ -73,10 +83,6 @@
 			{
 				"text": "Let us not waste any time, then.",
 				"triggeredUniques": ["Free [Well-Digger] appears"]
-			},
-			{
-				"text": "Another team has already been contracted, but we would still make use of other services they may offer.",
-				"triggerUniques": ["Free [Worker] appears"]
 			}
 		]
 	},

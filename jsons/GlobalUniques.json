@@ -4,11 +4,12 @@
 		"Triggers a [Appoint a Great Administrator] event <upon discovering [Civil Service] technology>",
 		"Triggers a [Bountiful Harvest] event <upon discovering [Decontamination] technology>",
 
-		"Triggers a [Digging Wells] event <for [Human player]> <upon turn end> <with [3]% chance> <before the [Rebuilding era]>",
+		"Triggers a [Radiation Outbreak] event <upon turn end> <with [5]% chance> <before discovering [Decontamination]>",
+		"Triggers a [Digging Wells] event <upon turn end> <with [3]% chance> <before the [Rebuilding era]>",
 
 		"Triggers a [Former Elite Captured] event <upon turn end> <every [15] turns> <with [33]% chance> <before [60] turns>",
-		"Triggers a [Gift to the State] event <upon turn end> <every [30] turns> <with [33]% chance>",
-		"Triggers a [Social Reforms] event <upon turn end> <every [50] turns> <with [33]% chance>",
+		"Triggers a [Gift to the State] event <upon turn end> <every [30] turns> <with [25]% chance>",
+		"Triggers a [Social Reforms] event <upon turn end> <every [50] turns> <with [25]% chance>",
 		"Triggers a [Stalkers] event <upon turn end> <with [3]% chance> <before the [Rebuilding era]>"
 	]
 }
