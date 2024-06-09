@@ -1,9 +1,9 @@
 {
 	"name": "Global uniques",
 	"uniques": [
-		"Triggers a [Appoint a Great Administrator] event <upon discovering [Civil Service] technology>",
 		"Triggers a [Bountiful Harvest] event <upon discovering [Decontamination] technology>",
-
+		
+		"Triggers a [Appoint a Great Administrator] event <with [3]% chance> <during the [Rebuilding era]>",
 		"Triggers a [Radiation Outbreak] event <upon turn end> <with [5]% chance> <before discovering [Decontamination]>",
 		"Triggers a [Digging Wells] event <upon turn end> <with [3]% chance> <before the [Rebuilding era]>",
 

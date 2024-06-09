@@ -29,7 +29,7 @@
 			},
 			{
 				"text": "Let's implement the proposals and prepare for backlash.",
-				"triggeredUniques": ["Free Social Policy", "Gain a free [Protest Center] [in all cities]"]
+				"triggeredUniques": ["Free Social Policy", "[-5] [Happiness] [in all cities] <for [5] turns>"]
 			}
 		]
 	},
@@ -64,15 +64,18 @@
 			{
 				"text": "Their operations are dangerous to our people. They must be dealt with.",
 				"triggeredUniques": [
-					"Comment [Rebel units may spawn over the next five turns]",
-					"Gain [100] [Culture]",
-					"Gain a free [Stalker Hideout] [in capital]"
+					"Rebel units may spawn <for [2] turns> <with [100]% chance>",
+					"Gain [50]-[100] [Culture]"
 				]
+			},
+			{
+				"text": "Leave them be. They're not harming us and we can't afford to contract them.",
+				"triggeredUniques": ["Comment [Nothing happens]"]
 			},
 			{
 				"text": "See that they are fairly compensated for their services.",
 				"triggeredUniques": ["Gain [-150] [Gold]", "Free [Stalker] appears"],
-				"conditions": ["when above [200] [Gold]"]
+				"conditions": ["when above [199] [Gold]"]
 			}
 		]
 	},
