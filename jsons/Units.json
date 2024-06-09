@@ -5,8 +5,7 @@
 		"movement": 2,
 		"cost": 10,
 		"upgradesTo": "Worker",
-		"uniques": ["Turn this tile into a [River] tile <for all movement>",
-			"This Unit upgrades for free <upon turn end> <after [10] turns>",
+		"uniques": ["Turn this tile into a [River] tile <for all movement> <[10] times> <after which this unit is consumed>",
 			"Unbuildable",
 			"Cannot be purchased",
 			"Limited to [1] per Civilization"]

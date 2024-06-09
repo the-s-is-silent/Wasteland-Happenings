@@ -85,7 +85,13 @@
 		"choices": [
 			{
 				"text": "Let us not waste any time, then.",
-				"triggeredUniques": ["Free [Well-Digger] appears"]
+				"triggeredUniques": ["Free [Well-Digger] appears"],
+				"conditions": ["when number of [Well-Digger] is less than [1]"]
+			},
+			{
+				"text": "Another team has already been contracted, but we would still make use of their services.",
+				"triggeredUniques": ["[+5]% [Production] [in all cities] <for [5] turns>"],
+				"conditions": ["when number of [Well-Digger] is greater than [0]"]
 			}
 		]
 	},
