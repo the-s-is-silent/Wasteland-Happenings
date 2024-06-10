@@ -92,7 +92,7 @@
 			{
 				"text": "Their operations are dangerous to our people. They must be dealt with.",
 				"triggeredUniques": [
-					"Rebel units may spawn <for [2] turns> <with [100]% chance>",
+					"Rebel units may spawn <for [5] turns>",
 					"Gain [100] [Culture]"
 				]
 			},
