@@ -5,10 +5,13 @@
 		"movement": 2,
 		"cost": 10,
 		"upgradesTo": "Worker",
-		"uniques": ["Turn this tile into a [River] tile <for all movement> <[10] times> <after which this unit is consumed>",
+		"uniques": [
+			"Turn this tile into a [River] tile <for all movement> <[10] times> <after which this unit is consumed>",
+			"This unit upgrades for free <for [AI player]> <upon turn end> <hidden from users>",
 			"Unbuildable",
 			"Cannot be purchased",
-			"Limited to [1] per Civilization"]
+			"Limited to [1] per Civilization"
+		]
 	},
 	{
 		"name": "Stalker",

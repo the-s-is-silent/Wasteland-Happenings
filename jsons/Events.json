@@ -34,6 +34,34 @@
 		]
 	},
 	{
+		"name": "Technological Breakthrough",
+		"text": "Our spy networks have reported some concerning scientific developments from rival factions. They advise an immediate investigation to determine if we can make use of their research.",
+		"choices": [
+			{
+				"text": "Send some researchers to investigate.",
+				"triggeredUniques": [
+					"Comment [Gain Science equal to ~5% of a new technology's cost]",
+					"Gain [100] [Science] <during the [Rebuilding era]> <hidden from users>",
+					"Gain [175] [Science] <during the [Industrial era]> <hidden from users>",
+					"Gain [300] [Science] <during the [Postmodern era]> <hidden from users>",
+					"Gain [500] [Science] <during the [Information era]> <hidden from users>",
+					"Gain [1250] [Science] <during the [New Future era]> <hidden from users>",
+					"Gain [1750] [Science] <during the [Singularity era]> <hidden from users>"
+				]
+			},
+			{
+				"text": "Better to cripple their efforts before they become a threat.",
+				"triggeredUniques": [
+					"Comment [Receive 2 free Infantry units depending on the era, with a 1-in-10 chance of receiving an extra spy",
+					"Gain an extra spy <with [10]% chance> <hidden from users>",
+					"[2] free [Infantry] units appear <during the [Rebuilding era]> <hidden from users>",
+					"[2] free [NBC Infantry] units appear <starting from the [Industrial era]> <before the [New Future era]> <hidden from users>",
+					"[2] free [Exo-Trooper] units appear <starting from the [New Future era]> <hidden from users>"
+				]
+			}
+		]
+	},
+	{
 		"name": "Radiation Outbreak",
 		"text": "One of our settlements has experienced an outbreak of radiation sickness due to prolonged exposure to contaminated materials. The outbreak has been contained, but at significant cost.",
 		"choices": [
@@ -65,7 +93,7 @@
 				"text": "Their operations are dangerous to our people. They must be dealt with.",
 				"triggeredUniques": [
 					"Rebel units may spawn <for [2] turns> <with [100]% chance>",
-					"Gain [50]-[100] [Culture]"
+					"Gain [100] [Culture]"
 				]
 			},
 			{
@@ -101,7 +129,7 @@
 		"choices": [
 			{
 				"text": "The people will be eating well this year!",
-				"triggeredUniques": ["Gain [50]-[75] [Food] <in [Your] cities>"]
+				"triggeredUniques": ["[+50 Food] [in all cities] <for [1] turns>"]
 			}
 		]
 	}
