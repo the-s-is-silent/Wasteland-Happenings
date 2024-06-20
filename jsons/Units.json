@@ -207,6 +207,8 @@
 	},
 	{
 		"name": "Ocean Robber",
+		"replaces": "Attack Boat",
+		"uniqueTo": "Barbarians",
 		"unitType": "Melee Water",
 		"movement": 4,
 		"strength": 40,
