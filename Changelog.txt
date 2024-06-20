@@ -1,0 +1,24 @@
+Changelog
+
+June 8-10, 2024: Initial upload + bug testing
+- Events added:
+	- Appoint a Great Administrator
+	- Bountiful Harvest
+	- Digging Wells
+	- Former Elite Captured
+	- Gift to the State
+	- Radiation Outbreak
+	- Social Reforms
+	- Stalkers
+	- Technological Breakthrough
+- Units added: Marked One, Stalker (imported from Outlaws of the Wastes), Well-Digger
+- Promotions added: Prospector (imported from Outlaws of the Wastes)
+
+June 19, 2024:
+- Adjust Radiation Outbreak so it cannot happen until after Turn 10
+- Adjust several other events so they cannot happen on Turn 0
+- Add event "A Great Raider appears!" that triggers after 50 turns
+- Barbarians spawn a lot of units on the turn this event triggers
+- Add new Barbarian units: Great Raider and Savior of the Sea
+- Import Dhow, Drone Ship, Ghoul, Hero of the Wastes, Ocean Robber and Skiff units (and adjustments to Attack Boat and Assault Ship) from Outlaws of the Wastes
+- Import Sea Raider promotion from Outlaws of the Wastes

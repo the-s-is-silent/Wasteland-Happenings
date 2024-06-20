@@ -8,5 +8,20 @@
 			"Gain [1]-[5] [Gold] <upon ending a turn in a [Forest] tile>",
 			"Gain [1]-[5] [Gold] <upon ending a turn in a [Jungle] tile>",
 			"[+5] HP when healing", "[+1] Sight"]
+	},
+	{
+		"name": "Heroic Resolve",
+		"uniques": ["All healing effects doubled",
+			"[+50]% XP gained from combat",
+			"[+15]% Strength bonus for [Military] units within [2] tiles"]
+	},
+	{
+		"name": "Sea Raider",
+		"uniques": ["Earn [20]% of the damage done to [All] units as [Gold]"]
+	},
+	{
+		"name": "Overboss",
+		"uniques": ["[+50]% XP gained from combat",
+			"[+20]% Strength bonus for [Barbarian] units within [2] tiles"]
 	}
 ]

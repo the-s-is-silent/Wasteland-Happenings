@@ -1,16 +1,25 @@
 {
 	"name": "Global uniques",
 	"uniques": [
+		"Free [Great Raider] appears <for [Barbarians]> <upon turn end> <after [50] turns> <before [51] turns>",
+		"[3] free [Raider] units appear <for [Barbarians]> <upon turn end> <after [50] turns> <before [51] turns>",
+		"[3] free [Marauder] units appear <for [Barbarians]> <upon turn end> <after [50] turns> <before [51] turns>",
+		"[3] free [Outlaw] units appear <for [Barbarians]> <upon turn end> <after [50] turns> <before [51] turns>",
+		"[3] free [Highwayman] units appear <for [Barbarians]> <upon turn end> <after [50] turns> <before [51] turns>",
+		"[3] free [Skiff] units appear <for [Barbarians]> <upon turn end> <after [50] turns> <before [51] turns>",
+		"Triggers a [A Great Raider appears!] event <for [Major]> <upon turn end> <after [50] turns> <before [51] turns>",
+		"Free [Hero of the Wastes] appears <upon defeating a [Great Raider] unit>",
+
 		"Triggers a [Bountiful Harvest] event <upon discovering [Decontamination] technology>",
 
 		"Triggers a [Appoint a Great Administrator] event <for [Major]> <with [3]% chance> <during the [Rebuilding era]>",
-		"Triggers a [Radiation Outbreak] event <upon turn end> <with [5]% chance> <before discovering [Decontamination]>",
-		"Triggers a [Digging Wells] event <for [Human player]> <upon turn end> <with [3]% chance> <before the [Rebuilding era]>",
+		"Triggers a [Radiation Outbreak] event <upon turn end> <with [5]% chance> <after [10] turns> <before discovering [Decontamination]>",
+		"Triggers a [Digging Wells] event <for [Human player]> <upon turn end> <with [3]% chance> <after [0] turns> <before the [Rebuilding era]>",
 
-		"Triggers a [Former Elite Captured] event <for [Major]> <upon turn end> <every [15] turns> <with [33]% chance> <before [60] turns>",
-		"Triggers a [Gift to the State] event <for [Major]> <upon turn end> <every [30] turns> <with [25]% chance>",
-		"Triggers a [Social Reforms] event <for [Major]> <upon turn end> <every [50] turns> <with [25]% chance>",
-		"Triggers a [Stalkers] event <for [Major]> <upon turn end> <with [3]% chance> <before the [Rebuilding era]>",
+		"Triggers a [Former Elite Captured] event <for [Major]> <upon turn end> <every [15] turns> <with [33]% chance> <after [0] turns> <before [61] turns>",
+		"Triggers a [Gift to the State] event <for [Major]> <upon turn end> <every [30] turns> <with [25]% chance> <after [0] turns>",
+		"Triggers a [Social Reforms] event <for [Major]> <upon turn end> <every [50] turns> <with [25]% chance> <after [0] turns>",
+		"Triggers a [Stalkers] event <for [Major]> <upon turn end> <with [3]% chance> <after [0] turns> <before the [Rebuilding era]>",
 		"Triggers a [Technological Breakthrough] event <for [Major]> <upon turn end> <with [1]% chance> <starting from the [Rebuilding era]>"
 	]
 }
