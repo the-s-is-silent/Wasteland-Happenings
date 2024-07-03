@@ -260,8 +260,7 @@
 			"Can instantly construct a [Barbarian encampment] improvement <[4] times>",
 			"[-10]% Strength for enemy [Military] units in adjacent [Land] tiles",
 			"Great Person - [War]",
-			"Uncapturable",
-			"Comment [Defeating this unit will cause a Hero of the Wastes to emerge]"
+			"Uncapturable"
 		],
 		"promotions": ["Raider", "Reconnaissance I", "March", "Overboss"],
 		"attackSound": "machinegun"
