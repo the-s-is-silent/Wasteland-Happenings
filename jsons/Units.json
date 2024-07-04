@@ -32,6 +32,25 @@
 		"attackSound": "machinegun"
 	},
 	{
+		"name": "Tank",
+		"unitType": "Armor",
+		"movement": 4,
+		"strength": 60,
+		"cost": 225,
+		"requiredTech": "Combined Arms",
+		"upgradesTo": "Modern Armor",
+		"obsoleteTech": "Advanced Materials",
+		"uniques": [
+			"Can move after attacking",
+			"[-25]% Strength <vs cities> <when attacking>",
+			"No defensive terrain bonus",
+			"Only available <if [Factory] is constructed>",
+			"Consumes [1] [Oil]"
+		],
+		"hurryCostModifier": 20,
+		"attackSound": "tankshot"
+	},
+	{
 		"name": "Attack Boat",
 		"unitType": "Melee Water",
 		"movement": 4,
@@ -164,6 +183,24 @@
 		"promotions": ["Raider", "Gas Mask", "Forage", "Urban Warfare I"],
 		"uniques": ["Personnel", "[+25]% Strength <after discovering [Rifling]>"],
 		"attackSound": "machinegun"
+	},
+	{
+		"name": "Killdozer",
+		"uniqueTo": "Barbarians",
+		"replaces": "Tank",
+		"unitType": "Armor",
+		"movement": 4,
+		"strength": 60,
+		"cost": 150,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Modern Armor",
+		"uniques": ["[-25]% Strength <vs cities> <when attacking>",
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"No movement cost to pillage"],
+		"promotions": ["Raider", "Shock", "Awe"],
+		"hurryCostModifier": 20,
+		"attackSound": "tankshot"
 	},
 	{
 		"name": "Dhow",
