@@ -62,7 +62,7 @@
 		"uniques": [
 			"Consumes [1] [Oil]",
 			"Double movement in [Coast]",
-			"May withdraw before melee ([33]%)"
+			"Withdraws before melee combat <with [33]% chance>"
 		],
 		"hurryCostModifier": 20,
 		"attackSound": "shipguns"
@@ -80,7 +80,7 @@
 			"Can move after attacking",
 			"Consumes [1] [Oil]",
 			"Double movement in [Coast]",
-			"May withdraw before melee ([33]%)",
+			"Withdraws before melee combat <with [33]% chance>",
 			"Only available <if [Factory] is constructed>"
 		],
 		"hurryCostModifier": 20,
@@ -100,7 +100,7 @@
 			"Can move after attacking",
 			"Can see invisible [Submarine] units",
 			"[+33]% Strength <vs [Ranged Water] units> <when defending>",
-			"May withdraw before melee ([50]%)",
+			"Withdraws before melee combat <with [50]% chance>",
 			"Only available <if [Automated Factory] is constructed>",
 			"Consumes [1] [Aluminum]",
 			"Consumes [1] [Power]",
@@ -216,7 +216,7 @@
 		"uniques": [
 			"Cannot enter ocean tiles",
 			"[+15]% Strength <when adjacent to a [Melee Water] unit>",
-			"May withdraw before melee ([33]%)"
+			"Withdraws before melee combat <with [33]% chance>"
 		],
 		"promotions": ["Raider", "Sea Raider"],
 		"attackSound": "nonmetalhit"
@@ -235,7 +235,7 @@
 		"uniques": [
 			"Double movement in [Coast]",
 			"[+20]% Strength <when adjacent to a [Melee Water] unit>",
-			"May withdraw before melee ([33]%)",
+			"Withdraws before melee combat <with [33]% chance>",
 			"May capture killed [Water] units"
 		],
 		"promotions": ["Raider", "Sea Raider"],
@@ -256,7 +256,7 @@
 		"uniques": [
 			"Double movement in [Coast]",
 			"[+25]% Strength <when adjacent to a [Melee Water] unit>",
-			"May withdraw before melee ([33]%)",
+			"Withdraws before melee combat <with [33]% chance>",
 			"May capture killed [Water] units"
 		],
 		"promotions": ["Raider", "Sea Raider"],
@@ -277,7 +277,7 @@
 		    "Can move after attacking",
 			"Double movement in [Coast]",
 			"[+30]% Strength <when adjacent to a [Melee Water] unit>",
-			"May withdraw before melee ([33]%)",
+			"Withdraws before melee combat <with [33]% chance>",
 			"May capture killed [Water] units"
 		],
 		"promotions": ["Raider", "Sea Raider"],
