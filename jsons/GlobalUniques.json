@@ -23,12 +23,12 @@
 
 		"Triggers a [Appoint a Great Administrator] event <for [Major]> <upon turn end> <with [3]% chance> <during the [Rebuilding era]>",
 		"Triggers a [Radiation Outbreak] event <upon turn end> <with [5]% chance> <after turn number [10]> <before discovering [Decontamination]>",
-		"Triggers a [Digging Wells] event <for [Human player]> <upon turn end> <with [3]% chance> <after turn number [0]> <before the [Rebuilding era]>",
+		"Triggers a [Digging Wells] event <for [Human player]> <upon turn end> <with [3]% chance> <after turn number [10]> <before the [Rebuilding era]>",
 
-		"Triggers a [Former Elite Captured] event <for [Major]> <upon turn end> <every [15] turns> <with [33]% chance> <after turn number [0]> <before turn number [61]>",
-		"Triggers a [Gift to the State] event <for [Major]> <upon turn end> <every [30] turns> <with [25]% chance> <after turn number [0]>",
-		"Triggers a [Social Reforms] event <for [Major]> <upon turn end> <every [50] turns> <with [25]% chance> <after turn number [0]>",
-		"Triggers a [Stalkers] event <for [Major]> <upon turn end> <with [3]% chance> <after turn number [0]> <before the [Rebuilding era]>",
+		"Triggers a [Former Elite Captured] event <for [Major]> <upon turn end> <every [15] turns> <with [33]% chance> <after turn number [14]> <before turn number [61]>",
+		"Triggers a [Gift to the State] event <for [Major]> <upon turn end> <every [30] turns> <with [25]% chance> <after turn number [29]>",
+		"Triggers a [Social Reforms] event <for [Major]> <upon turn end> <every [50] turns> <with [25]% chance> <after turn number [49]>",
+		"Triggers a [Stalkers] event <for [Major]> <upon turn end> <with [3]% chance> <after turn number [30]> <before the [Rebuilding era]>",
 		"Triggers a [Technological Breakthrough] event <for [Major]> <upon turn end> <with [1]% chance> <starting from the [Rebuilding era]>"
 	]
 }
