@@ -6,6 +6,7 @@
 		"cost": 10,
 		"uniques": [
 			"Turn this tile into a [River] tile <for all movement> <[4] times> <after which this unit is consumed>",
+			"Turn this tile into a [Spring] tile <by consuming this unit> <in [non-[resource]] tiles> <if it hasn't used other actions yet>",
 			"Can upgrade to [Worker] <if it hasn't used other actions yet>",
 			"Unbuildable",
 			"Cannot be purchased",
