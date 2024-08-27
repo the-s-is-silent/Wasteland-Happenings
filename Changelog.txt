@@ -22,3 +22,8 @@ June 19, 2024:
 - Add new Barbarian units: Great Raider and Savior of the Sea
 - Import Dhow, Drone Ship, Ghoul, Hero of the Wastes, Ocean Robber and Skiff units (and adjustments to Attack Boat and Assault Ship) from Outlaws of the Wastes
 - Import Sea Raider promotion from Outlaws of the Wastes
+
+August 27, 2024:
+- Numerous deprecated uniques addressed, additions reverted, and other issues addressed over the past two months
+- Add event "Hero's Comeback!" that has a 3% chance of triggering each turn if you don't already control a Hero of the Wastes
+- Finally add the atlas files
