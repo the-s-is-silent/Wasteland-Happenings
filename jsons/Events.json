@@ -152,6 +152,16 @@
 		]
 	},
 	{
+		"name": "Hero's Comeback!",
+		"text": "Sightings of the impossible have been reported in distant wastelands. The Hero who saved humanity from the Purge Robots of the Cataclysm has returned. But how can this be? Everyone knows he vanished for good after the Cataclysm.",
+		"choices": [
+			{
+				"text": "Even if it isn't the Hero, he can still become the symbol of hope we need. We should recruit him at once.",
+				"triggeredUniques": ["Free [Hero of the Wastes] appears"]
+			}
+		]
+	},
+	{
 		"name": "Bountiful Harvest",
 		"text": "Owing to breakthroughs in water treatment research, local farmers throughout the nation are reporting an amazing surplus of food. Rarely have we seen such bountiful harvests since before the Cataclysm!",
 		"choices": [

@@ -12,6 +12,10 @@
 		]
 	},
 	{
+		"name": "Great Generals",
+		"uniques": ["[Great General] is earned [100]% faster"]
+	},
+	{
 		"name": "Heroic Resolve",
 		"uniques": ["All healing effects doubled",
 			"[+50]% XP gained from combat",

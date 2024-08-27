@@ -118,7 +118,7 @@
 		"strength": 36,
 		"interceptRange": 3,
 		"cost": 500,
-		"promotions": ["Heroic Resolve"],
+		"promotions": ["Great Generals", "Heroic Resolve"],
 		"uniques": [
 			"Personnel",
 			"Can only attack [Military] units", "Can only attack [Civilian] units",
