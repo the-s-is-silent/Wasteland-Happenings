@@ -12,9 +12,10 @@
 		"Triggers a [Bountiful Harvest] event <upon discovering [Decontamination] technology>",
 
 		"Triggers a [Appoint a Great Administrator] event <for [Major]> <upon turn end> <with [3]% chance> <during the [Rebuilding era]>",
-		"Triggers a [Radiation Outbreak] event <upon turn end> <with [5]% chance> <after turn number [10]> <before discovering [Decontamination]>",
-		"Triggers a [Digging Wells] event <for [Human player]> <upon turn end> <with [3]% chance> <after turn number [10]> <before the [Rebuilding era]>",
+		"Triggers a [Radiation Outbreak] event <upon turn end> <with [5]% chance> <after turn number [10]> <before discovering [Decontamination]> <for [non-[Proklyatyye]]>",
+		"Triggers a [The Sickness Spreads] event <upon turn end> <with [3]% chance> <after turn number [20]> <before discovering [Decontamination]> <for [Proklyatyye]>",
 
+		"Triggers a [Digging Wells] event <for [Major]> <upon turn end> <with [3]% chance> <after turn number [10]> <before the [Rebuilding era]>",
 		"Triggers a [Former Elite Captured] event <for [Major]> <upon turn end> <every [15] turns> <with [33]% chance> <after turn number [14]> <before turn number [61]>",
 		"Triggers a [Gift to the State] event <for [Major]> <upon turn end> <every [30] turns> <with [25]% chance> <after turn number [29]>",
 		"Triggers a [Hero's Comeback!] event <upon turn end> <with [3]% chance> <after turn number [20]> <when number of [Hero of the Wastes] is less than [1]>",

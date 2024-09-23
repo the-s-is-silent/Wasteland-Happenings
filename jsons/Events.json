@@ -86,6 +86,16 @@
 		]
 	},
 	{
+		"name": "The Sickness Spreads",
+		"text": "One of the former closed towns we reclaimed has experienced a severe outbreak of radiation sickness. While we were able to contain it - at significant cost - some of the survivors were drastically affected and would be better utilized by sending them off to plague our enemies.",
+		"choices": [
+			{
+				"text": "Let the sickness spread to them as well.",
+				"uniques": ["[-1] population in a random city", "Free [Mutant] appears"]
+			}
+		]
+	},
+	{
 		"name": "Former Elite Captured",
 		"text": "A surviving member of the pre-Cataclysm world's elite has fallen into our custody. While his crimes are numerous, if he is shown leniency, he could yet be transformed into a productive member of society, if given the incentive to reform and make amends.",
 		"choices": [

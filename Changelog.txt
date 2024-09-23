@@ -23,7 +23,17 @@ June 19, 2024:
 - Import Dhow, Drone Ship, Ghoul, Hero of the Wastes, Ocean Robber and Skiff units (and adjustments to Attack Boat and Assault Ship) from Outlaws of the Wastes
 - Import Sea Raider promotion from Outlaws of the Wastes
 
+August 5, 2024:
+- Adjust Gift to the State to provide less Water in earlier eras and scale upward as the player advances in era
+- Adjust Social Reforms so that the first choice spawns Workers instead of Forward Observers
+- Adjust Well-Digger to let it create a Spring by consuming the unit if it hasn't created any Rivers yet
+
 August 27, 2024:
 - Numerous deprecated uniques addressed, additions reverted, and other issues addressed over the past two months
-- Add event "Hero's Comeback!" that has a 3% chance of triggering each turn if you don't already control a Hero of the Wastes
+- Add event "Hero's Comeback!" that has a 3% chance of triggering each turn after turn 20 if you don't already control a Hero of the Wastes
 - Finally add the atlas files
+
+September 23, 2024:
+- Update fields in Events.json in accordance with Unciv version 4.13.5
+- Add event "The Sickness Spreads" that is exclusive to Proklyatyye, replacing Radiation Outbreak for them
+- Adjust Well-Digger so it upgrades automatically to a Worker on turn end for AI factions (and let Digging Wells trigger for AI factions again)
