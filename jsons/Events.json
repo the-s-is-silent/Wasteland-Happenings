@@ -5,7 +5,7 @@
 		"choices": [
 			{
 				"text": "Replenish the reservoirs!",
-				"triggeredUniques": [
+				"uniques": [
 					"Comment [Gain a sum of Water depending on the current technological era]",
 					"Gain [150] [Gold] <during the [Decivilized era]> <hidden from users>",
 					"Gain [300] [Gold] <during the [Rediscovering era]> <hidden from users>",
@@ -25,7 +25,7 @@
 		"choices": [
 			{
 				"text": "It shall be done at once.",
-				"triggeredUniques": [
+				"uniques": [
 					"Comment [Lose 250 Water]",
 					"Gain [-250] [Gold] <hidden from users>",
 					"Free [Great Administrator] appears"
@@ -39,11 +39,11 @@
 		"choices": [
 			{
 				"text": "Reassign the advisors somewhere they cannot cause our nation harm.",
-				"triggeredUniques": ["[-1] population [in capital]", "[2] free [Worker] units appear"]
+				"uniques": ["[-1] population [in capital]", "[2] free [Worker] units appear"]
 			},
 			{
 				"text": "Let's implement the proposals and prepare for backlash.",
-				"triggeredUniques": ["Free Social Policy", "[-5 Happiness] [in all cities] <for [5] turns>"]
+				"uniques": ["Free Social Policy", "[-5 Happiness] [in all cities] <for [5] turns>"]
 			}
 		]
 	},
@@ -53,7 +53,7 @@
 		"choices": [
 			{
 				"text": "Send some researchers to investigate.",
-				"triggeredUniques": [
+				"uniques": [
 					"Comment [Gain Science equal to ~5% of a new technology's cost]",
 					"Gain [100] [Science] <during the [Rebuilding era]> <hidden from users>",
 					"Gain [175] [Science] <during the [Industrial era]> <hidden from users>",
@@ -65,7 +65,7 @@
 			},
 			{
 				"text": "Better to cripple their efforts before they become a threat.",
-				"triggeredUniques": [
+				"uniques": [
 					"Comment [Receive 2 free Infantry units depending on the era, with a 1-in-10 chance of receiving an extra spy]",
 					"Gain an extra spy <with [10]% chance> <hidden from users>",
 					"[2] free [Infantry] units appear <during the [Rebuilding era]> <hidden from users>",
@@ -81,7 +81,7 @@
 		"choices": [
 			{
 				"text": "Just another day in the wasteland...",
-				"triggeredUniques": ["[-1] population in a random city"]
+				"uniques": ["[-1] population in a random city"]
 			}
 		]
 	},
@@ -91,11 +91,11 @@
 		"choices": [
 			{
 				"text": "This is his one and only chance for atonement. Assign him to supervised hard labor.",
-				"triggeredUniques": ["Free [Conscript] appears"]
+				"uniques": ["Free [Conscript] appears"]
 			},
 			{
 				"text": "The people are out for blood. Have him executed in public.",
-				"triggeredUniques": ["Gain [50] [Culture]"]
+				"uniques": ["Gain [50] [Culture]"]
 			}
 		]
 	},
@@ -105,23 +105,23 @@
 		"choices": [
 			{
 				"text": "Their operations are dangerous to our people. They must be dealt with.",
-				"triggeredUniques": [
+				"uniques": [
 					"Rebel units may spawn <for [5] turns>",
 					"Gain [100] [Culture]"
 				]
 			},
 			{
 				"text": "Leave them be. They're not harming us and we can't afford to contract them.",
-				"triggeredUniques": ["Comment [Nothing happens]"]
+				"uniques": ["Comment [Nothing happens]"]
 			},
 			{
 				"text": "See that they are fairly compensated for their services.",
-				"triggeredUniques": [
+				"uniques": [
 					"Comment [Lose 150 Water]",
 					"Gain [-150] [Gold] <hidden from users>",
-					"Free [Stalker] appears"
-				],
-				"conditions": ["when above [199] [Gold]"]
+					"Free [Stalker] appears",
+					"Only available <when above [199] [Gold]> <hidden from users>"
+				]
 			}
 		]
 	},
@@ -131,13 +131,17 @@
 		"choices": [
 			{
 				"text": "Let us not waste any time, then.",
-				"triggeredUniques": ["Free [Well-Digger] appears"],
-				"conditions": ["when number of [Well-Digger] is less than [1]"]
+				"uniques": [
+					"Free [Well-Digger] appears",
+					"Only available <when number of [Well-Digger] is less than [1]> <hidden from users>"
+				]
 			},
 			{
 				"text": "Another team has already been contracted, but we would still make use of their services.",
-				"triggeredUniques": ["[+5]% [Production] [in all cities] <for [5] turns>"],
-				"conditions": ["when number of [Well-Digger] is more than [0]"]
+				"uniques": [
+					"[+5]% [Production] [in all cities] <for [5] turns>",
+					"Only available <when number of [Well-Digger] is more than [0]> <hidden from users>"
+				]
 			}
 		]
 	},
@@ -147,7 +151,7 @@
 		"choices": [
 			{
 				"text": "Be ready to defend our homeland.",
-				"triggeredUniques": ["Comment [Nothing happens] <hidden from users>"]
+				"uniques": ["Comment [Nothing happens] <hidden from users>"]
 			}
 		]
 	},
@@ -157,7 +161,7 @@
 		"choices": [
 			{
 				"text": "Even if it isn't the Hero, he can still become the symbol of hope we need. We should recruit him at once.",
-				"triggeredUniques": ["Free [Hero of the Wastes] appears"]
+				"uniques": ["Free [Hero of the Wastes] appears"]
 			}
 		]
 	},
@@ -167,7 +171,7 @@
 		"choices": [
 			{
 				"text": "The people will be eating well this year!",
-				"triggeredUniques": ["[+50 Food] [in all cities] <for [1] turns>"]
+				"uniques": ["[+50 Food] [in all cities] <for [1] turns>"]
 			}
 		]
 	}
