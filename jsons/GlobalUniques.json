@@ -1,19 +1,22 @@
 {
 	"name": "Global uniques",
 	"uniques": [
-		"Free [Great Raider] appears <for [Barbarians]> <upon turn end> <after turn number [50]> <before turn number [51]>",
-		"[3] free [Raider] units appear <for [Barbarians]> <upon turn end> <after turn number [50]> <before turn number [51]>",
-		"[3] free [Marauder] units appear <for [Barbarians]> <upon turn end> <after turn number [50]> <before turn number [51]>",
-		"[3] free [Outlaw] units appear <for [Barbarians]> <upon turn end> <after turn number [50]> <before turn number [51]>",
-		"[3] free [Highwayman] units appear <for [Barbarians]> <upon turn end> <after turn number [50]> <before turn number [51]>",
-		"[3] free [Skiff] units appear <for [Barbarians]> <upon turn end> <after turn number [50]> <before turn number [51]>",
+		"Free [Great Raider] appears <for [Barbarians] Civilizations> <upon turn end> <after turn number [50]> <before turn number [51]>",
+		"[3] free [Raider] units appear <for [Barbarians] Civilizations> <upon turn end> <after turn number [50]> <before turn number [51]>",
+		"[3] free [Marauder] units appear <for [Barbarians] Civilizations> <upon turn end> <after turn number [50]> <before turn number [51]>",
+		"[3] free [Outlaw] units appear <for [Barbarians] Civilizations> <upon turn end> <after turn number [50]> <before turn number [51]>",
+		"[3] free [Highwayman] units appear <for [Barbarians] Civilizations> <upon turn end> <after turn number [50]> <before turn number [51]>",
+		"[3] free [Skiff] units appear <for [Barbarians] Civilizations> <upon turn end> <after turn number [50]> <before turn number [51]>",
 		"Triggers a [A Great Raider appears!] event <for [Major]> <upon turn end> <after turn number [50]> <before turn number [51]>",
 
 		"Triggers a [Bountiful Harvest] event <upon discovering [Decontamination] technology>",
 
 		"Triggers a [Appoint a Great Administrator] event <for [Major]> <upon turn end> <with [3]% chance> <during the [Rebuilding era]>",
-		"Triggers a [Radiation Outbreak] event <upon turn end> <with [5]% chance> <after turn number [10]> <before discovering [Decontamination]> <for [non-[Proklyatyye]]>",
-		"Triggers a [The Sickness Spreads] event <upon turn end> <with [3]% chance> <after turn number [20]> <before discovering [Decontamination]> <for [Proklyatyye]>",
+		"Triggers a [Mormon Missionaries] event <for [non-[Deseret2] Civilizations> <upon turn end> <after turn number [29]> <with [2]% chance>",
+		"Triggers a [Radiation Outbreak] event <upon turn end> <with [5]% chance> <after turn number [10]> <before discovering [Decontamination]> <for [non-[Proklyatyye]] Civilizations>",
+		"Triggers a [The Sickness Spreads] event <upon turn end> <with [3]% chance> <after turn number [20]> <before discovering [Decontamination]> <for [Proklyatyye] Civilizations>",
+		"Triggers a [Successful Missions] event <for [Deseret2] Civilizations> <upon turn end> <after turn number [29]> <with [2]% chance>",
+		"Triggers a [Unscheduled Landing Event] <for [Prasiddh Shahar] Civilizations> <upon turn end> <with [2]% chance> <after turn number [29]> <before discovering [Rocketry]>",
 
 		"Triggers a [Digging Wells] event <for [Major]> <upon turn end> <with [3]% chance> <after turn number [10]> <before the [Rebuilding era]>",
 		"Triggers a [Former Elite Captured] event <for [Major]> <upon turn end> <every [15] turns> <with [33]% chance> <after turn number [14]> <before turn number [61]>",

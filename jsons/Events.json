@@ -96,6 +96,50 @@
 		]
 	},
 	{
+		"name": "Mormon Missionaries",
+		"text": "Our scouts have come across an unusual band of people claiming to be missionaries from the land of Deseret. Stranger still, they claim to be offering aid to any settlements they come across.",
+		"choices": [
+			{
+				"text": "It shouldn't hurt to hear them out.",
+				"uniques": ["Gain enough Faith for [20]% of a Great Prophet", "Only available <after founding a Pantheon>"]
+			},
+			{
+				"text": "If their offer for aid has no strings attached, why not take it?",
+				"uniques": ["[+5 Food] [in all cities] <for [2] turns>"]
+			},
+			{
+				"text": "Their Old World beliefs are dangerous. We may need to stamp them out.",
+				"uniques": ["Free [Censor] appears", "Only available <after founding a religion>"]
+			}
+		]
+	},
+	{
+		"name": "Successful Missions",
+		"text": "Some of our missionaries have returned from their mission to distant wastelands and are reporting a promising development. Civilization seems to be recovering faster than we expected. Furthermore, many people in the outlying settlements have expressed a willingness to convert.",
+		"choices": [
+			{
+				"text": "That is good to hear.",
+				"uniques": [
+					"Gain [50]-[75] [Faith]",
+					"Gain [50]-[75] [Culture]"
+				]
+			}
+		]
+	},
+	{
+		"name": "Unscheduled Landing Event",
+		"text": "We have received reinforcements from our space station! However, they were not due to arrive for some time yet...",
+		"choices": [
+			{
+				"text": "The aid is welcomed regardless. Let us hope nothing has gone wrong on the Bharatiya Antariksha Station.",
+				"triggeredUniques": [
+					"[+1] population in a random city",
+					"Free [Avatar] appears"
+				]
+			}
+		]
+	},
+	{
 		"name": "Former Elite Captured",
 		"text": "A surviving member of the pre-Cataclysm world's elite has fallen into our custody. While his crimes are numerous, if he is shown leniency, he could yet be transformed into a productive member of society, if given the incentive to reform and make amends.",
 		"choices": [

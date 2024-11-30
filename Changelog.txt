@@ -37,3 +37,9 @@ September 23, 2024:
 - Update fields in Events.json in accordance with Unciv version 4.13.5
 - Add event "The Sickness Spreads" that is exclusive to Proklyatyye, replacing Radiation Outbreak for them
 - Adjust Well-Digger so it upgrades automatically to a Worker on turn end for AI factions (and let Digging Wells trigger for AI factions again)
+
+November 29, 2024:
+- Update deprecated uniques
+- Add event "Mormon Missionaries" with a 2% chance of triggering for any faction except Deseret starting on Turn 30
+- Add event "Successful Missions" that is exclusive to Deseret, repacing the above event for them, with the same chance of triggering each turn
+- Add event "Unscheduled Landing Event" that is exclusive to Prasiddh Shahar from Deciv 2 post-Tech Expansion update
