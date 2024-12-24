@@ -43,3 +43,7 @@ November 29, 2024:
 - Add event "Mormon Missionaries" with a 2% chance of triggering for any faction except Deseret starting on Turn 30
 - Add event "Successful Missions" that is exclusive to Deseret, repacing the above event for them, with the same chance of triggering each turn
 - Add event "Unscheduled Landing Event" that is exclusive to Prasiddh Shahar from Deciv 2 post-Tech Expansion update
+
+December 24, 2024:
+- More updates to deprecated conditionals
+- Add event "Replenish Population" that is exclusive to The Mechanized in order to offset the "Radiation Sickness" event for that faction
