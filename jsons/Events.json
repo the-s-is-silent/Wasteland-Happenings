@@ -96,6 +96,26 @@
 		]
 	},
 	{
+		"name": "Replenish Population",
+		"text": "*weep* The effects of the Cataclysm linger on many years after the event. *weep* Radiation poisoning continues to claim the lives of my creations. The current rate of die-offs is alarming. Catastrophe is expected.",
+		"choices": [
+			{
+				"text": "*meeep* Deploy emergency measures to replenish settlement population and stabilize the situation.",
+				"uniques": [
+					"Free [Breeder Convoy] appears",
+					"Only available <for [Human player] Civilizations>"
+				]
+			},
+			{
+				"text": "*meeep* Activate prototype breeder facilities.",
+				"uniques": [
+					"[+2] population in a random city",
+					"Only available <for [AI player] Civilizations>"
+				]
+			}
+		]
+	},
+	{
 		"name": "Mormon Missionaries",
 		"text": "Our scouts have come across an unusual band of people claiming to be missionaries from the land of Deseret. Stranger still, they claim to be offering aid to any settlements they come across.",
 		"choices": [

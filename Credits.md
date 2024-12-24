@@ -5,6 +5,7 @@ Suicider sprite is borrowed from [The Barbarians](https://github.com/amfauzn/The
 All of the following icons are from The Noun Project, licensed under Creative Commons or Public Domain. Savior of the Sea and Stalker are currently uncredited on account of not knowing their source.
 
 ### Unit Icons
+- Breeder Convoy: [Flag](https://thenounproject.com/icon/flag-131019/) by Creative Stall, PK
 - Dhow: [sailboat](https://thenounproject.com/icon/sailboat-54530/) by Michael Thompson, US
 - Drone Ship: [autonomous ship](https://thenounproject.com/icon/autonomous-ship-5912595/) by Todak Todak, KR
 - Ghoul: [Zombie](https://thenounproject.com/icon/zombie-4578120/) by Ian, US

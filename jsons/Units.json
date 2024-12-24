@@ -140,6 +140,19 @@
 		"attackSound": "machinegun"
 	},
 	{
+		"name": "Breeder Convoy",
+		"unitType": "Civilian",
+		"uniqueTo": "The Mechanized",
+		"movement": 3,
+		"cost": 0,
+		"uniques": [
+			"[+2] population [in this city] <by consuming this unit> <in [City center] tiles>",
+			"Comment [Can only be obtained from Replenish Population events]",
+			"Unbuildable",
+			"Cannot be purchased"
+		]
+	},
+	{
 		"name": "Ghoul",
 		"replaces": "Mutant",
 		"uniqueTo": "Barbarians",
