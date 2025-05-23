@@ -22,7 +22,7 @@
 		"Triggers a [Digging Wells] event <for [Major] Civilizations> <upon turn end> <with [3]% chance> <after turn number [10]> <before the [Rebuilding era]>",
 		"Triggers a [Former Elite Captured] event <for [Major] Civilizations> <upon turn end> <every [15] turns> <with [33]% chance> <after turn number [14]> <before turn number [61]>",
 		"Triggers a [Gift to the State] event <for [Major] Civilizations> <upon turn end> <every [30] turns> <with [25]% chance> <after turn number [29]>",
-		"Triggers a [Hero's Comeback!] event <upon turn end> <with [3]% chance> <after turn number [20]> <when number of [Hero of the Wastes] is less than [1]>",
+		"Triggers a [Hero's Comeback!] event <upon turn end> <with [3]% chance> <after turn number [20]> <when number of [[Hero of the Wastes] Units] is less than [1]>",
 		"Triggers a [Social Reforms] event <for [Major] Civilizations> <upon turn end> <every [50] turns> <with [25]% chance> <after turn number [49]>",
 		"Triggers a [Stalkers] event <for [Major] Civilizations> <upon turn end> <with [3]% chance> <after turn number [30]> <before the [Rebuilding era]>",
 		"Triggers a [Technological Breakthrough] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Rebuilding era]>"

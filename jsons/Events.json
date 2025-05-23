@@ -207,14 +207,14 @@
 				"text": "Let us not waste any time, then.",
 				"uniques": [
 					"Free [Well-Digger] appears",
-					"Only available <when number of [Well-Digger] is less than [1]> <hidden from users>"
+					"Only available <when number of [[Well-Digger] Units] is less than [1]> <hidden from users>"
 				]
 			},
 			{
 				"text": "Another team has already been contracted, but we would still make use of their services.",
 				"uniques": [
 					"[+5]% [Production] [in all cities] <for [5] turns>",
-					"Only available <when number of [Well-Digger] is more than [0]> <hidden from users>"
+					"Only available <when number of [[Well-Digger] Units] is more than [0]> <hidden from users>"
 				]
 			}
 		]
@@ -234,7 +234,7 @@
 		"text": "Sightings of the impossible have been reported in distant wastelands. The Hero who saved humanity from the Purge Robots of the Cataclysm has returned. But how can this be? Everyone knows he vanished for good after the Cataclysm.",
 		"choices": [
 			{
-				"text": "Even if it isn't the Hero, he can still become the symbol of hope we need. We should recruit him at once.",
+				"text": "Even if it isn't the Hero, he can still become a symbol of hope for our people. We should recruit him at once.",
 				"uniques": ["Free [Hero of the Wastes] appears"]
 			}
 		]
