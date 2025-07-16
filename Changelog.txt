@@ -47,3 +47,9 @@ November 29, 2024:
 December 24, 2024:
 - More updates to deprecated conditionals
 - Add event "Replenish Population" that is exclusive to The Mechanized in order to offset the "Radiation Sickness" event for that faction
+
+July 16, 2025
+- More updates to deprecated uniques
+- Add Barbarian unit "Pirate Mothership" (defense strength 35, ranged strength 75, 5 movement, 3 attack range, boosts strength of all nearby Barbarian units, +30% Strength when attacking, 2/3 chance to evade melee units, spawns a Savior of the Sea every 2 turns, uncapturable)
+- Add event "Resurgent Age of Piracy" that spawns 2 Pirate Motherships and 10 Saviors of the Sea, but gives the player a temporary boost to naval production
+- Add event "Sky Event" with the sole purpose of screwing everyone over for 20 turns once the game reaches Turn 150
