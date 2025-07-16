@@ -300,6 +300,29 @@
 		"attackSound": "shipguns"
 	},
 	{
+		"name": "Pirate Mothership",
+		"uniqueTo": "Barbarians",
+		"unitType": "Ranged Water",
+		"movement": 5,
+		"strength": 35,
+		"rangedStrength": 75,
+		"range": 3,
+		"interceptRange": 3,
+		"cost": 425,
+		"requiredTech": "Radar",
+		"uniques": [
+		    "Can move after attacking",
+			"[+30]% Strength <when attacking>",
+			"Withdraws before melee combat <with [67]% chance>",
+			"[1] free [Savior of the Sea] unit(s) appear <upon turn start> <every [2] turns>",
+			"Uncapturable",
+			"Limited to [2] per Civilization"
+		],
+		"promotions": ["Raider", "Sea Raider", "Artillery", "Overboss"],
+		"hurryCostModifier": 20,
+		"attackSound": "shipguns"
+	},
+	{
 		"name": "Great Raider",
 		"unitType": "Mounted",
 		"replaces": "Great General",

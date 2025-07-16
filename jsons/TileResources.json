@@ -1,0 +1,7 @@
+[
+	{
+		"name": "Carrington Disruption",
+		"resourceType": "Strategic",
+		"uniques": ["Cannot be traded"]
+	}
+]

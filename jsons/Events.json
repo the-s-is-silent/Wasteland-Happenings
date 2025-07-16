@@ -230,6 +230,16 @@
 		]
 	},
 	{
+		"name": "Resurgent Age of Piracy",
+		"text": "Troubling news has been reported by our senior naval officers. In the most lawless coastal regions, pirates have organized in large numbers and are now launching attacks on civilian vessels and coastal settlements around the world.",
+		"choices": [
+			{
+				"text": "We must take decisive action to put an end to this.",
+				"uniques": ["[+15]% Production when constructing [{Military} {Water}] units [in all coastal cities] <for [5] turns>"]
+			}
+		]
+	},
+	{
 		"name": "Hero's Comeback!",
 		"text": "Sightings of the impossible have been reported in distant wastelands. The Hero who saved humanity from the Purge Robots of the Cataclysm has returned. But how can this be? Everyone knows he vanished for good after the Cataclysm.",
 		"choices": [
@@ -246,6 +256,30 @@
 			{
 				"text": "The people will be eating well this year!",
 				"uniques": ["[+50 Food] [in all cities] <for [1] turns>"]
+			}
+		]
+	},
+	{
+		"name": "Sky Event",
+		"text": "A massive geomagnetic storm has hit the planet, the likes of which has not been witnessed since the Carrington Event of 1859. Our civilization was just beginning to rise from the ashes of the Cataclysm - this disaster will set back humanity's recovery by decades.",
+		"choices": [
+			{
+				"text": "We endured the Cataclysm. We will endure this as well.",
+				"triggeredUniques": [
+					"Provides [1] [Carrington Disruption] <for [20] turns>",
+					"Rebel units may spawn <for [20] turns>",
+					"[-1] population [in all cities]",
+					"[-1] population in a random city <every [1] turns> <for [20] turns> <for [Major] Civilizations>",
+					"[-1] population [in capital] <every [5] turns> <for [20] turns> <for [City-States] Civilizations>",
+					"[-50]% [Culture] [in all cities] <for [20] turns>",
+					"[-50]% [Science] [in all cities] <for [20] turns>",
+					"Comment [Smart Grids and Satellites are destroyed]",
+					"Remove [Smart Grid] [in all cities] <hidden from users>",
+					"Remove [Satnav Network] [in all cities] <hidden from users>",
+					"Remove [Communications Satellite] [in all cities] <hidden from users>",
+					"Remove [Surveillance Satellite] [in all cities] <hidden from users>",
+					"Remove [Microwave Power Satellite] [in all cities] <hidden from users>"
+				]
 			}
 		]
 	}

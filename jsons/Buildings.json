@@ -1,0 +1,79 @@
+[
+	{
+		"name": "Smart Grid",
+		"production": 1,
+		"requiredTech": "Computers",
+		"uniques": [
+			"Can only be built <in cities connected to the capital>",
+			"Only available <if [Domestic Electrification] is constructed>",
+			"Provides [2] [Power]",
+			"Unavailable <with [Carrington Disruption]>"
+		],
+		"maintenance": 1
+	},
+	{
+		"name": "Satnav Network",
+		"science": 1,
+		"greatPersonPoints": { "Great Engineer": 2 },
+		"isWonder": true,
+		"uniques": [
+			"[+25]% [Gold] from Trade Routes",
+			"[+1] Movement <for [Water] units>",
+			"[+1] Sight <for [All] units>",
+			"Reveals the entire map",
+			"Only available <in cities with a [Aerospace Facility]>",
+			"Unavailable <with [Carrington Disruption]>"
+		],
+		"requiredTech": "Satellites",
+		"quote": "I must down to the seas again, to the lonely sea and the sky,\nAnd all I ask is a tall ship and a star to steer her by.",
+		"civilopediaText": [
+			{
+				"text": "I must down to the seas again, to the lonely sea and the sky,\nAnd all I ask is a tall ship and a star to steer her by."
+			}
+		]
+	},
+	{
+		"name": "Communications Satellite",
+		"happiness": 2,
+		"science": 2,
+		"culture": 5,
+		"greatPersonPoints": { "Great Engineer": 1 },
+		"isNationalWonder": true,
+		"uniques": [
+			"Science gained from research agreements [+50]%",
+			"Only available <in cities with a [Aerospace Facility]>",
+			"Unavailable <with [Carrington Disruption]>"
+		],
+		"requiredTech": "Satellites"
+	},
+	{
+		"name": "Surveillance Satellite",
+		"happiness": 5,
+		"culture": 2,
+		"greatPersonPoints": { "Great Engineer": 1 },
+		"isNationalWonder": true,
+		"uniques": [
+			"[+1] Sight <for [All] units>",
+			"Reveals the entire map",
+			"Only available <in cities with a [Aerospace Facility]>",
+			"Unavailable <with [Carrington Disruption]>"
+		],
+		"requiredTech": "Incentivization"
+	},
+	{
+		"name": "Microwave Power Satellite",
+		"happiness": 2,
+		"production": 5,
+		"greatPersonPoints": {"Great Engineer": 2},
+		"isNationalWonder": true,
+		"uniques": [
+			"[+1 Production] from every [Solar collector]",
+			"[+1 Production] from [Desert] tiles [in this city]",
+			"Provides [8] [Power]",
+			"Only available <in cities with a [Aerospace Facility]>",
+			"Must be next to [Desert]",
+			"Unavailable <with [Carrington Disruption]>"
+		],
+		"requiredTech": "Incentivization"
+	}
+]
