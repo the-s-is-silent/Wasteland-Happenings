@@ -2,7 +2,7 @@
 	{
 		"name": "Purge Robot",
 		"uniques": [
-			"[This Unit] gains the [Carrington Shutdown] status <upon turn start> <for [1] turns> <with [Carrington Disruption]>",
+			"[This Unit] gains the [Carrington Shutdown] status for [1] turn(s) <upon turn start> <with [Carrington Disruption]>",
 			"Cannot intercept [Missile] units"
 		],
 		"movementType": "Land"
@@ -16,7 +16,7 @@
 			"Can see over obstacles",
 			"Can perform Air Sweep",
 			"Cannot intercept [Missile] units",
-			"[This Unit] gains the [Carrington Shutdown] status <upon turn start> <for [1] turns> <with [Carrington Disruption]>"
+			"[This Unit] gains the [Carrington Shutdown] status for [1] turn(s) <upon turn start> <with [Carrington Disruption]>"
 		]
 	},
 	{
@@ -25,7 +25,7 @@
 		"uniques": [
 			"Aircraft",
 			"Cannot intercept [Missile] units",
-			"[This Unit] gains the [Carrington Shutdown] status <upon turn start> <for [1] turns> <with [Carrington Disruption]>"
+			"[This Unit] gains the [Carrington Shutdown] status for [1] turn(s) <upon turn start> <with [Carrington Disruption]>"
 		]
 	},
 	{
@@ -33,7 +33,7 @@
 		"uniques": [
 			"Self-destructs when attacking",
 			"Cannot intercept [Air] units",
-			"[This Unit] gains the [Carrington Shutdown] status <upon turn start> <for [1] turns> <with [Carrington Disruption]>"
+			"[This Unit] gains the [Carrington Shutdown] status for [1] turn(s) <upon turn start> <with [Carrington Disruption]>"
 		],
 		"movementType": "Air"
 	},
@@ -51,28 +51,28 @@
 			"Eliminates combat penalty for attacking over a river",
 			"Cannot intercept [Stealth] units",
 			"Cannot intercept [Missile] units",
-			"[This Unit] gains the [Carrington Shutdown] status <upon turn start> <for [1] turns> <with [Carrington Disruption]>"
+			"[This Unit] gains the [Carrington Shutdown] status for [1] turn(s) <upon turn start> <with [Carrington Disruption]>"
 		]
 	},
 	{
 		"name": "Warhead Truck",
 		 "uniques": [
 			"Cannot intercept [Air] units",
-			"[This Unit] gains the [Carrington Shutdown] status <upon turn start> <for [1] turns> <with [Carrington Disruption]>"
+			"[This Unit] gains the [Carrington Shutdown] status for [1] turn(s) <upon turn start> <with [Carrington Disruption]>"
 		],
 		"movementType": "Land"
 	},
 	{
 		"name": "Siege Nuke",
 		"uniques": [
-			"[This Unit] gains the [Carrington Shutdown] status <upon turn start> <for [1] turns> <with [Carrington Disruption]>"
+			"[This Unit] gains the [Carrington Shutdown] status for [1] turn(s) <upon turn start> <with [Carrington Disruption]>"
 		],
 		"movementType": "Land"
 	},
 	{
 		"name": "Atomic Bomber",
 		"uniques": [
-			"[This Unit] gains the [Carrington Shutdown] status <upon turn start> <for [1] turns> <with [Carrington Disruption]>"
+			"[This Unit] gains the [Carrington Shutdown] status for [1] turn(s) <upon turn start> <with [Carrington Disruption]>"
 		],
 		"movementType": "Air"
 	}

@@ -15,6 +15,8 @@
 
 		"Triggers a [Sky Event] event <upon turn end> <after turn number [150]> <before turn number [151]>",
 		"[-100]% [Power] resource production <with [Carrington Disruption]>",
+		"[-100]% [Data] resource production <with [Carrington Disruption]>",
+		"[-100]% [Encrypted Data] resource production <with [Carrington Disruption]>",
 		"[-100]% [Soft Drinks] resource production <with [Carrington Disruption]>",
 		"[-1 Food] from [Food source] tiles [in all cities] <with [Carrington Disruption]>",
 		"[-1 Food] from [Water] tiles [in all cities] <with [Carrington Disruption]>",
@@ -28,7 +30,7 @@
 		"[-1 Gold] from [River] tiles [in all cities] <with [Carrington Disruption]>",
 		"[-1 Gold] from [Coast] tiles [in all cities] <with [Carrington Disruption]>",
 		"[-1 Gold] from [Ocean] tiles [in all cities] <with [Carrington Disruption]>",
-		"[-5 Gold] from every [Desalinaton Plant] <with [Carrington Disruption]>",
+		"[-5 Gold] from every [Desalination Plant] <with [Carrington Disruption]>",
 		"[-25]% [Gold] from every [Water Plant] <with [Carrington Disruption]>",
 		"[-15]% [Gold] from every [Greywater Treatment Plant] <with [Carrington Disruption]>",
 		"[-33]% [Gold] from every [Arcology Dome] <with [Carrington Disruption]>",
