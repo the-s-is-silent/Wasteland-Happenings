@@ -265,7 +265,7 @@
 		"choices": [
 			{
 				"text": "We endured the Cataclysm. We will endure this as well.",
-				"triggeredUniques": [
+				"uniques": [
 					"Provides [1] [Carrington Disruption] <for [20] turns>",
 					"Rebel units may spawn <for [20] turns>",
 					"[-1] population [in all cities]",
