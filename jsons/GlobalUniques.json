@@ -82,6 +82,8 @@
 		"Triggers a [Successful Missions] event <for [Deseret2] Civilizations> <upon turn end> <after turn number [29]> <with [2]% chance>",
 		"Triggers a [Unscheduled Landing Event] event <for [Prasiddh Shahar] Civilizations> <upon turn end> <with [2]% chance> <after turn number [29]> <before discovering [Rocketry]>",
 
+		"Triggers a [The Founding Fathers' Car?] event <for [The Oathsworn] Civilizations> <upon discovering [Machinery] technology>",
+
 		"Triggers a [Digging Wells] event <for [Major] Civilizations> <upon turn end> <with [3]% chance> <after turn number [10]> <before the [Rebuilding era]>",
 		"Triggers a [Former Elite Captured] event <for [Major] Civilizations> <upon turn end> <every [15] turns> <with [33]% chance> <after turn number [14]> <before turn number [61]>",
 		"Triggers a [Gift to the State] event <for [Major] Civilizations> <upon turn end> <every [30] turns> <with [25]% chance> <after turn number [29]>",

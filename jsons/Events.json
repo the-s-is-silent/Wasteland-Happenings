@@ -147,6 +147,16 @@
 		]
 	},
 	{
+		"name": "The Founding Fathers' Car?",
+		"text": "Teams of prospectors have managed to unearth a remarkably well preserved pre-Cataclysm car, still in perfect working condition. It happens to be the exact same model as one shown in a pre-Cataclysm advertisement depicting George Washington driving into battle against the British. But everyone knows that wasn't a historically accurate depiction of one of our chief Founding Fathers... right...? Besides, the vehicle clearly lacks any value as a military asset.",
+		"choices": [
+			{
+				"text": "Surely we can find a use for it somewhere? Like how the original USS Constitution maintained a symbolic role in Old America's Navy...",
+				"uniques": ["Free [Washington Challenger] appears"]
+			}
+		]
+	},
+	{
 		"name": "Unscheduled Landing Event",
 		"text": "We have received reinforcements from our space station! However, they were not due to arrive for some time yet...",
 		"choices": [

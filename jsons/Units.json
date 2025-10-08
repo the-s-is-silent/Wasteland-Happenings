@@ -106,7 +106,7 @@
 			"Only available <if [Automated Factory] is constructed>",
 			"Consumes [1] [Aluminum]",
 			"Consumes [1] [Power]",
-			"Never appears as a Barbarian unit"
+			"Never appears as a Barbarian unit <hidden from users>"
 		],
 		"promotions": ["Automated"],
 		"hurryCostModifier": 20,
@@ -121,6 +121,7 @@
 		"cost": 500,
 		"promotions": ["Great Generals", "Heroic Resolve"],
 		"uniques": [
+			"Comment [Hero Unit]",
 			"Personnel",
 			"Can only attack [Military] units", "Can only attack [Civilian] units",
 			"[+25]% Strength <vs [Barbarian] units>",
@@ -135,9 +136,33 @@
 			"Unbuildable",
 			"Cannot be purchased",
 			"Limited to [1] per Civilization",
-			"Never appears as a Barbarian unit"
+			"Never appears as a Barbarian unit <hidden from users>"
 		],
 		"attackSound": "machinegun"
+	},
+	{
+		"name": "Washington Challenger",
+		"unitType": "Armor",
+		"uniqueTo": "The Oathsworn",
+		"movement": 5,
+		"strength": 50,
+		"cost": 500,
+		"uniques": [
+			"Comment [Hero Unit]",
+			"[+25]% Strength <starting from the [Rebuilding era]>",
+			"[+25]% Strength <starting from the [Postmodern era]>",
+			"[+50]% Strength <starting from the [New Future era]>",
+			"[+1] Movement <starting from the [New Future era]>",
+			"Withdraws before melee combat <with [50]% chance>",
+			"[-100]% maintenance costs",
+			"Consumes [1] [Oil]",
+			"Unbuildable",
+			"Cannot be purchased",
+			"Limited to [1] per Civilization",
+			"Never appears as a Barbarian unit <hidden from users>"
+		],
+		"promotions": ["Great Generals", "Shock", "Awe", "Blitz"],
+		"attackSound": "challenger"
 	},
 	{
 		"name": "Breeder Convoy",

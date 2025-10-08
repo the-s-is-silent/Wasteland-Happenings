@@ -16,6 +16,7 @@ All of the following icons are from The Noun Project, licensed under Creative Co
 - Pirate Mothership: [pirate ship](https://thenounproject.com/icon/pirate-ship-2975121/) by Grafix Point, PK
 - [Skiff](https://thenounproject.com/icon/skiff-4687237/) by Eucalyp
 - Suicider: [Suicide Bomber](https://thenounproject.com/icon/suicide-bomber-2409625/) by Gan Khoon Lay
+- Washington Challenger: [Dodge challenger](https://thenounproject.com/icon/dodge-challenger-4369691/) by Alexander Skowalsky, HU
 - Well-Digger: [Well](https://thenounproject.com/icon/well-4138882/) by Ahmad Roaayala, ID
 
 ### Promotion and Resource Icons
@@ -24,3 +25,6 @@ All of the following icons are from The Noun Project, licensed under Creative Co
 - Overboss: [gangster boss](https://thenounproject.com/icon/gangster-boss-2758482/) by Gan Khoon Lay
 - Prospector: [prospector hat](https://thenounproject.com/icon/prospector-hat-1105355/) by Clément Branger
 - Sea Raider: [Skull and Crossbones](https://thenounproject.com/icon/skull-and-crossbones-15526/) by Anton Outkine, RU
+
+### Attack Sounds (from Freesound)
+- Challenger: Utilizes a 5 second long sample from [Dodge Challenger SRT](https://freesound.org/people/JorisDJN/sounds/760645/) by JorisDJN
