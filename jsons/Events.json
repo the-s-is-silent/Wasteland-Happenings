@@ -81,7 +81,10 @@
 		"choices": [
 			{
 				"text": "Just another day in the wasteland...",
-				"uniques": ["[-1] population in a random city"]
+				"uniques": [
+					"[-1] population in a random city",
+					"Instantly provides [1] [Radiation Outbreak Counter] <hidden from users>"
+				]
 			}
 		]
 	},
@@ -102,6 +105,7 @@
 			{
 				"text": "*meeep* Deploy emergency measures to replenish settlement population and stabilize the situation.",
 				"uniques": [
+					"Instantly consumes [2] [Radiation Outbreak Counter] <hidden from users>",
 					"Free [Breeder Convoy] appears",
 					"Only available <for [Human player] Civilizations>"
 				]
@@ -109,12 +113,28 @@
 			{
 				"text": "*meeep* Activate prototype breeder facilities.",
 				"uniques": [
+					"Instantly consumes [2] [Radiation Outbreak Counter] <hidden from users>",
 					"[+2] population in a random city",
 					"Only available <for [AI player] Civilizations>"
 				]
 			}
 		]
 	},
+	{
+		"name": "Severe Drought",
+		"text": "Last year saw new record lows in rainfall throughout our territories, creating a critical water shortage. This does not bode well for our people.",
+		"choices": [
+			{
+				"text": "Will our hardships never end?",
+				"uniques": [
+					"[-25]% Growth [in all cities] <for [5] turns>",
+					"[-25]% [Gold] [in all cities] <for [5] turns>",
+					"[-2 Gold] from all [Gold] buildings <for [5] turns>",
+					"[-5 Happiness] [in all cities] <for [5] turns>"
+				]
+			}
+		]
+  	},
 	{
 		"name": "Mormon Missionaries",
 		"text": "Our scouts have come across an unusual band of people claiming to be missionaries from the land of Deseret. Stranger still, they claim to be offering aid to any settlements they come across.",
@@ -170,6 +190,18 @@
 		]
 	},
 	{
+		"name": "Establish the Last Redoubt",
+		"text": "Recent movements by our neighbors have given us significant cause for alarm. It is in the best interests of Capitalia that we establish a redoubt our people can retreat to in the event that war breaks out.",
+		"choices": [
+			{
+				"text": "And let us pray that we will not be forced to abandon the Capital of the World.",
+				"uniques": [
+					"Free [Civilian Convoy] appears"
+				]
+			}
+		]
+	},
+	{
 		"name": "Former Elite Captured",
 		"text": "A surviving member of the pre-Cataclysm world's elite has fallen into our custody. While his crimes are numerous, if he is shown leniency, he could yet be transformed into a productive member of society, if given the incentive to reform and make amends.",
 		"choices": [
@@ -190,7 +222,7 @@
 			{
 				"text": "Their operations are dangerous to our people. They must be dealt with.",
 				"uniques": [
-					"Rebel units may spawn <for [5] turns>",
+					"[2] [Stalker]s rebel",
 					"Gain [100] [Culture]"
 				]
 			},
@@ -235,7 +267,15 @@
 		"choices": [
 			{
 				"text": "Be ready to defend our homeland.",
-				"uniques": ["Comment [Nothing happens] <hidden from users>"]
+				"uniques": [
+					"Comment [Great Raiders now terrorize the wasteland]",
+					"Free [Great Raider] appears <for [Barbarians] Civilizations>",
+					"[3] free [Raider] units appear <for [Barbarians] Civilizations>",
+					"[3] free [Marauder] units appear <for [Barbarians] Civilizations>",
+					"[3] free [Outlaw] units appear <for [Barbarians] Civilizations>",
+					"[3] free [Highwayman] units appear <for [Barbarians] Civilizations>",
+					"[3] free [Skiff] units appear <for [Barbarians] Civilizations>"
+				]
 			}
 		]
 	},
@@ -245,7 +285,12 @@
 		"choices": [
 			{
 				"text": "We must take decisive action to put an end to this.",
-				"uniques": ["[+15]% Production when constructing [{Military} {Water}] units [in all coastal cities] <for [5] turns>"]
+				"uniques": [
+					"Comment [Pirate Motherships now terrorize the seas]",
+					"[2] free [Pirate Mothership] units appear <for [Barbarians] Civilizations>",
+					"[10] free [Savior of the Sea] units appear <for [Barbarians] Civilizations>",
+					"[+15]% Production when constructing [{Military} {Water}] units [in all coastal cities] <for [5] turns>"
+				]
 			}
 		]
 	},
@@ -277,12 +322,12 @@
 				"text": "We endured the Cataclysm. We will endure this as well.",
 				"uniques": [
 					"Provides [1] [Carrington Disruption] <for [20] turns>",
-					"Rebel units may spawn <for [20] turns>",
+					"Rebel units may spawn <with [50]% chance> <for [20] turns>",
 					"[-1] population [in all cities]",
 					"[-1] population in a random city <every [1] turns> <for [20] turns> <for [Major] Civilizations>",
 					"[-1] population [in capital] <every [5] turns> <for [20] turns> <for [City-States] Civilizations>",
-					"[-50]% [Culture] [in all cities] <for [20] turns>",
-					"[-50]% [Science] [in all cities] <for [20] turns>",
+					"[-75]% [Culture] [in all cities] <for [20] turns>",
+					"[-75]% [Science] [in all cities] <for [20] turns>",
 					"Comment [Smart Grids and Satellites are destroyed]",
 					"Remove [Smart Grid] [in all cities] <hidden from users>",
 					"Remove [Satnav Network] [in all cities] <hidden from users>",

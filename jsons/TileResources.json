@@ -3,5 +3,14 @@
 		"name": "Carrington Disruption",
 		"resourceType": "Strategic",
 		"uniques": ["Cannot be traded"]
+	},
+	{
+		"name": "Radiation Outbreak Counter",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled",
+			"Cannot be traded",
+			"Not shown on world screen"
+		]
 	}
 ]

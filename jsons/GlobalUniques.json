@@ -1,17 +1,8 @@
 {
 	"name": "Global uniques",
 	"uniques": [
-		"Free [Great Raider] appears <for [Barbarians] Civilizations> <upon turn end> <after turn number [50]> <before turn number [51]>",
-		"[3] free [Raider] units appear <for [Barbarians] Civilizations> <upon turn end> <after turn number [50]> <before turn number [51]>",
-		"[3] free [Marauder] units appear <for [Barbarians] Civilizations> <upon turn end> <after turn number [50]> <before turn number [51]>",
-		"[3] free [Outlaw] units appear <for [Barbarians] Civilizations> <upon turn end> <after turn number [50]> <before turn number [51]>",
-		"[3] free [Highwayman] units appear <for [Barbarians] Civilizations> <upon turn end> <after turn number [50]> <before turn number [51]>",
-		"[3] free [Skiff] units appear <for [Barbarians] Civilizations> <upon turn end> <after turn number [50]> <before turn number [51]>",
-		"Triggers a [A Great Raider appears!] event <for [Major] Civilizations> <upon turn end> <after turn number [50]> <before turn number [51]>",
-
-		"[2] free [Pirate Mothership] units appear <for [Barbarians] Civilizations> <upon turn end> <after turn number [120]> <before turn number [121]>",
-		"[10] free [Savior of the Sea] units appear <for [Barbarians] Civilizations> <upon turn end> <after turn number [120]> <before turn number [121]>",
-		"Triggers a [Resurgent Age of Piracy] event <for [Major] Civilizations> <upon turn end> <after turn number [120]> <before turn number [121]>",
+		"Triggers a [A Great Raider appears!] event <upon turn end> <after turn number [50]> <before turn number [51]>",
+		"Triggers a [Resurgent Age of Piracy] event <upon turn end> <after turn number [120]> <before turn number [121]>",
 
 		"Triggers a [Sky Event] event <upon turn end> <after turn number [150]> <before turn number [151]>",
 		"[-100]% [Power] resource production <with [Carrington Disruption]>",
@@ -78,11 +69,14 @@
 		"Triggers a [Mormon Missionaries] event <for [non-[Deseret2]] Civilizations> <upon turn end> <after turn number [29]> <with [2]% chance>",
 		"Triggers a [Radiation Outbreak] event <upon turn end> <with [5]% chance> <after turn number [10]> <before discovering [Decontamination]> <for [non-[Proklyatyye]] Civilizations>",
 		"Triggers a [The Sickness Spreads] event <upon turn end> <with [3]% chance> <after turn number [20]> <before discovering [Decontamination]> <for [Proklyatyye] Civilizations>",
-		"Triggers a [Replenish Population] event <for [The Mechanized] Civilizations> <upon turn end> <with [3]% chance> <after turn number [10]> <before discovering [Decontamination]>",
+		"Triggers a [Replenish Population] event <for [The Mechanized] Civilizations> <upon turn end> <after turn number [10]> <before discovering [Decontamination]> <when number of [Radiation Outbreak Counter] is more than [1]>",
+		"Triggers a [Severe Drought] event <upon turn end> <with [2]% chance> <before discovering [Atmosphere Remediation]>",
 		"Triggers a [Successful Missions] event <for [Deseret2] Civilizations> <upon turn end> <after turn number [29]> <with [2]% chance>",
 		"Triggers a [Unscheduled Landing Event] event <for [Prasiddh Shahar] Civilizations> <upon turn end> <with [2]% chance> <after turn number [29]> <before discovering [Rocketry]>",
 
 		"Triggers a [The Founding Fathers' Car?] event <for [The Oathsworn] Civilizations> <upon discovering [Machinery] technology>",
+
+		"Triggers a [Establish the Last Redoubt] event <for [Capitalia] Civilizations> <upon constructing [The Bastion]>",
 
 		"Triggers a [Digging Wells] event <for [Major] Civilizations> <upon turn end> <with [3]% chance> <after turn number [10]> <before the [Rebuilding era]>",
 		"Triggers a [Former Elite Captured] event <for [Major] Civilizations> <upon turn end> <every [15] turns> <with [33]% chance> <after turn number [14]> <before turn number [61]>",
