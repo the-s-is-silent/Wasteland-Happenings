@@ -127,7 +127,7 @@
 			{
 				"text": "Will our hardships never end?",
 				"uniques": [
-					"[-25]% Growth [in all cities] <for [5] turns>",
+					"[-25]% growth [in all cities] <for [5] turns>",
 					"[-25]% [Gold] [in all cities] <for [5] turns>",
 					"[-2 Gold] from all [Gold] buildings <for [5] turns>",
 					"[-5 Happiness] [in all cities] <for [5] turns>"
@@ -269,12 +269,12 @@
 				"text": "Be ready to defend our homeland.",
 				"uniques": [
 					"Comment [Great Raiders now terrorize the wasteland]",
-					"Free [Great Raider] appears <for [Barbarians] Civilizations>",
-					"[3] free [Raider] units appear <for [Barbarians] Civilizations>",
-					"[3] free [Marauder] units appear <for [Barbarians] Civilizations>",
-					"[3] free [Outlaw] units appear <for [Barbarians] Civilizations>",
-					"[3] free [Highwayman] units appear <for [Barbarians] Civilizations>",
-					"[3] free [Skiff] units appear <for [Barbarians] Civilizations>"
+					"Free [Great Raider] appears <for [Barbarians] Civilizations> <hidden from users>",
+					"[3] free [Raider] units appear <for [Barbarians] Civilizations> <hidden from users>",
+					"[3] free [Marauder] units appear <for [Barbarians] Civilizations> <hidden from users>",
+					"[3] free [Outlaw] units appear <for [Barbarians] Civilizations> <hidden from users>",
+					"[3] free [Highwayman] units appear <for [Barbarians] Civilizations> <hidden from users>",
+					"[3] free [Skiff] units appear <for [Barbarians] Civilizations> <hidden from users>"
 				]
 			}
 		]
@@ -287,8 +287,8 @@
 				"text": "We must take decisive action to put an end to this.",
 				"uniques": [
 					"Comment [Pirate Motherships now terrorize the seas]",
-					"[2] free [Pirate Mothership] units appear <for [Barbarians] Civilizations>",
-					"[10] free [Savior of the Sea] units appear <for [Barbarians] Civilizations>",
+					"[2] free [Pirate Mothership] units appear <for [Barbarians] Civilizations> <hidden from users>",
+					"[10] free [Savior of the Sea] units appear <for [Barbarians] Civilizations> <hidden from users>",
 					"[+15]% Production when constructing [{Military} {Water}] units [in all coastal cities] <for [5] turns>"
 				]
 			}
