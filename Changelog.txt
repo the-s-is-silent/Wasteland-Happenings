@@ -53,3 +53,16 @@ July 16, 2025
 - Add Barbarian unit "Pirate Mothership" (defense strength 35, ranged strength 75, 5 movement, 3 attack range, boosts strength of all nearby Barbarian units, +30% Strength when attacking, 2/3 chance to evade melee units, spawns a Savior of the Sea every 2 turns, uncapturable)
 - Add event "Resurgent Age of Piracy" that spawns 2 Pirate Motherships and 10 Saviors of the Sea, but gives the player a temporary boost to naval production
 - Add event "Sky Event" with the sole purpose of screwing everyone over for 20 turns once the game reaches Turn 150
+
+October 8, 2025
+- Add event "The Founding Fathers' Car?" that is exclusive to the Oathsworn and triggers upon researching Machinery
+- Add unit "Washington Challenger" which is only obtainable via the above event
+
+January 18, 2026
+- "Radiation Outbreak" event now creates a hidden stockpiled resource
+- "Replenish Population" event for The Mechanized now triggers automatically after the player suffers two "Radiation Outbreak" events
+- "A Great Raider Appears!" and "Resurgent Age of Piracy" now spawn the Barbarian units directly
+- "Stalkers" event now directly spawns two rebel Stalkers if the first option is chosen
+- "Sky Event" now enforces a 75% Culture and Science penalty (previously 50%)
+- Add negative event "Severe Drought" with a 2% chance of triggering every turn until Atmosphere Remediation is discovered
+- Add event "Establish the Last Redoubt" that is exclusive to Capitalia and triggers upon constructing The Bastion, granting an additional Civilian Convoy
